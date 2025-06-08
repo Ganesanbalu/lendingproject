@@ -10,3 +10,7 @@ git commit -m "committing the first project"
 git init - If you are creating a new project in local and want to initialize it to maintain it by local
 git remote add origin https://github.com/Ganesanbalu/lendingproject.git
 git remote -v - It shows where origin is pointing to
+
+git branch feature - creates a new branch
+git checkout feature - switches to feature branch
+git branch -M abc - rename a brach
